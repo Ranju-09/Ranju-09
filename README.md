@@ -16,7 +16,7 @@ AI Engineer specializing in **Natural Language Processing**, **Retrieval-Augment
 
 **Languages & Frameworks:**
 - Python | SQL | TensorFlow | PyTorch
-- 
+  
 **AI/ML Technologies:**
 - Large Language Models (LLMs) | RAG Pipelines | Langchain
 - Vector Databases | OpenCV | Machine Learning
@@ -66,5 +66,3 @@ Currently developing at ZMI GmbH
 ***
 
 💡 *Open to collaboration on AI/ML projects, especially in NLP, RAG systems, and conversational AI!*
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/95587544/91d6b8e6-f8ad-41ad-bfe3-899d5cf37486/Ranjitha-Umesh_CV.pdf)
