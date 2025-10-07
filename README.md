@@ -6,7 +6,7 @@
 
 💼 Working Student at **ZMI GmbH**, developing intelligent chatbot systems with RAG and Text-to-SQL capabilities
 
-📍 Based in Würzburg, Germany
+📍 Based in Euerdorf, Germany
 
 ## 🔬 About Me
 
